@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\ToTitleCase\bin\Debug\netcoreapp2.2\ToTitleCase.deps.json
+C:\Users\peter\Documents\code\ToTitleCase\bin\Debug\netcoreapp2.2\ToTitleCase.runtimeconfig.json
+C:\Users\peter\Documents\code\ToTitleCase\bin\Debug\netcoreapp2.2\ToTitleCase.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\ToTitleCase\bin\Debug\netcoreapp2.2\ToTitleCase.dll
+C:\Users\peter\Documents\code\ToTitleCase\bin\Debug\netcoreapp2.2\ToTitleCase.pdb
+C:\Users\peter\Documents\code\ToTitleCase\obj\Debug\netcoreapp2.2\ToTitleCase.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\ToTitleCase\obj\Debug\netcoreapp2.2\ToTitleCase.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\ToTitleCase\obj\Debug\netcoreapp2.2\ToTitleCase.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\ToTitleCase\obj\Debug\netcoreapp2.2\ToTitleCase.AssemblyInfo.cs
+C:\Users\peter\Documents\code\ToTitleCase\obj\Debug\netcoreapp2.2\ToTitleCase.dll
+C:\Users\peter\Documents\code\ToTitleCase\obj\Debug\netcoreapp2.2\ToTitleCase.pdb
