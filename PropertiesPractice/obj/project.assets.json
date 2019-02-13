@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\peter\\Documents\\code\\arcaAssignments\\classPractice\\classPractice.csproj",
-      "projectName": "classPractice",
-      "projectPath": "c:\\Users\\peter\\Documents\\code\\arcaAssignments\\classPractice\\classPractice.csproj",
+      "projectUniqueName": "C:\\Users\\peter\\Documents\\code\\arcaAssignments\\PropertiesPractice\\PropertiesPractice.csproj",
+      "projectName": "PropertiesPractice",
+      "projectPath": "C:\\Users\\peter\\Documents\\code\\arcaAssignments\\PropertiesPractice\\PropertiesPractice.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\peter\\Documents\\code\\arcaAssignments\\classPractice\\obj\\",
+      "outputPath": "C:\\Users\\peter\\Documents\\code\\arcaAssignments\\PropertiesPractice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

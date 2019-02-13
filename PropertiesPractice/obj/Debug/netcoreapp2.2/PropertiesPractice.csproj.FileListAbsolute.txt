@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\arcaAssignments\PropertiesPractice\obj\Debug\netcoreapp2.2\PropertiesPractice.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\arcaAssignments\PropertiesPractice\obj\Debug\netcoreapp2.2\PropertiesPractice.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\arcaAssignments\PropertiesPractice\obj\Debug\netcoreapp2.2\PropertiesPractice.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\arcaAssignments\PropertiesPractice\obj\Debug\netcoreapp2.2\PropertiesPractice.AssemblyInfo.cs
+C:\Users\peter\Documents\code\arcaAssignments\PropertiesPractice\bin\Debug\netcoreapp2.2\PropertiesPractice.deps.json
+C:\Users\peter\Documents\code\arcaAssignments\PropertiesPractice\bin\Debug\netcoreapp2.2\PropertiesPractice.runtimeconfig.json
+C:\Users\peter\Documents\code\arcaAssignments\PropertiesPractice\bin\Debug\netcoreapp2.2\PropertiesPractice.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\arcaAssignments\PropertiesPractice\bin\Debug\netcoreapp2.2\PropertiesPractice.dll
+C:\Users\peter\Documents\code\arcaAssignments\PropertiesPractice\bin\Debug\netcoreapp2.2\PropertiesPractice.pdb
+C:\Users\peter\Documents\code\arcaAssignments\PropertiesPractice\obj\Debug\netcoreapp2.2\PropertiesPractice.dll
+C:\Users\peter\Documents\code\arcaAssignments\PropertiesPractice\obj\Debug\netcoreapp2.2\PropertiesPractice.pdb

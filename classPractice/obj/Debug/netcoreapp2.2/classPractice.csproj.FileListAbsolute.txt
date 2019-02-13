@@ -9,3 +9,14 @@ C:\Users\peter\Documents\code\classPractice\obj\Debug\netcoreapp2.2\classPractic
 C:\Users\peter\Documents\code\classPractice\obj\Debug\netcoreapp2.2\classPractice.AssemblyInfo.cs
 C:\Users\peter\Documents\code\classPractice\obj\Debug\netcoreapp2.2\classPractice.dll
 C:\Users\peter\Documents\code\classPractice\obj\Debug\netcoreapp2.2\classPractice.pdb
+C:\Users\peter\Documents\code\arcaAssignments\classPractice\bin\Debug\netcoreapp2.2\classPractice.deps.json
+C:\Users\peter\Documents\code\arcaAssignments\classPractice\bin\Debug\netcoreapp2.2\classPractice.runtimeconfig.json
+C:\Users\peter\Documents\code\arcaAssignments\classPractice\bin\Debug\netcoreapp2.2\classPractice.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\arcaAssignments\classPractice\bin\Debug\netcoreapp2.2\classPractice.dll
+C:\Users\peter\Documents\code\arcaAssignments\classPractice\bin\Debug\netcoreapp2.2\classPractice.pdb
+C:\Users\peter\Documents\code\arcaAssignments\classPractice\obj\Debug\netcoreapp2.2\classPractice.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\arcaAssignments\classPractice\obj\Debug\netcoreapp2.2\classPractice.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\arcaAssignments\classPractice\obj\Debug\netcoreapp2.2\classPractice.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\arcaAssignments\classPractice\obj\Debug\netcoreapp2.2\classPractice.AssemblyInfo.cs
+C:\Users\peter\Documents\code\arcaAssignments\classPractice\obj\Debug\netcoreapp2.2\classPractice.dll
+C:\Users\peter\Documents\code\arcaAssignments\classPractice\obj\Debug\netcoreapp2.2\classPractice.pdb
