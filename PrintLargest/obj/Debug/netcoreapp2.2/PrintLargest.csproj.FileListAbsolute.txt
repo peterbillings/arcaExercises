@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\PrintLargest\obj\Debug\netcoreapp2.2\PrintLargest.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\PrintLargest\obj\Debug\netcoreapp2.2\PrintLargest.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\PrintLargest\obj\Debug\netcoreapp2.2\PrintLargest.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\PrintLargest\obj\Debug\netcoreapp2.2\PrintLargest.AssemblyInfo.cs
+C:\Users\peter\Documents\code\PrintLargest\bin\Debug\netcoreapp2.2\PrintLargest.deps.json
+C:\Users\peter\Documents\code\PrintLargest\bin\Debug\netcoreapp2.2\PrintLargest.runtimeconfig.json
+C:\Users\peter\Documents\code\PrintLargest\bin\Debug\netcoreapp2.2\PrintLargest.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\PrintLargest\bin\Debug\netcoreapp2.2\PrintLargest.dll
+C:\Users\peter\Documents\code\PrintLargest\bin\Debug\netcoreapp2.2\PrintLargest.pdb
+C:\Users\peter\Documents\code\PrintLargest\obj\Debug\netcoreapp2.2\PrintLargest.dll
+C:\Users\peter\Documents\code\PrintLargest\obj\Debug\netcoreapp2.2\PrintLargest.pdb

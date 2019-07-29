@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\EnumeratorPractice\bin\Debug\netcoreapp2.2\EnumeratorPractice.deps.json
+C:\Users\peter\Documents\code\EnumeratorPractice\bin\Debug\netcoreapp2.2\EnumeratorPractice.runtimeconfig.json
+C:\Users\peter\Documents\code\EnumeratorPractice\bin\Debug\netcoreapp2.2\EnumeratorPractice.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\EnumeratorPractice\bin\Debug\netcoreapp2.2\EnumeratorPractice.dll
+C:\Users\peter\Documents\code\EnumeratorPractice\bin\Debug\netcoreapp2.2\EnumeratorPractice.pdb
+C:\Users\peter\Documents\code\EnumeratorPractice\obj\Debug\netcoreapp2.2\EnumeratorPractice.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\EnumeratorPractice\obj\Debug\netcoreapp2.2\EnumeratorPractice.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\EnumeratorPractice\obj\Debug\netcoreapp2.2\EnumeratorPractice.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\EnumeratorPractice\obj\Debug\netcoreapp2.2\EnumeratorPractice.AssemblyInfo.cs
+C:\Users\peter\Documents\code\EnumeratorPractice\obj\Debug\netcoreapp2.2\EnumeratorPractice.dll
+C:\Users\peter\Documents\code\EnumeratorPractice\obj\Debug\netcoreapp2.2\EnumeratorPractice.pdb

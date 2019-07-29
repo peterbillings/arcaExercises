@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\CarPool\bin\Debug\netcoreapp2.2\CarPool.deps.json
+C:\Users\peter\Documents\code\CarPool\bin\Debug\netcoreapp2.2\CarPool.runtimeconfig.json
+C:\Users\peter\Documents\code\CarPool\bin\Debug\netcoreapp2.2\CarPool.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\CarPool\bin\Debug\netcoreapp2.2\CarPool.dll
+C:\Users\peter\Documents\code\CarPool\bin\Debug\netcoreapp2.2\CarPool.pdb
+C:\Users\peter\Documents\code\CarPool\obj\Debug\netcoreapp2.2\CarPool.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\CarPool\obj\Debug\netcoreapp2.2\CarPool.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\CarPool\obj\Debug\netcoreapp2.2\CarPool.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\CarPool\obj\Debug\netcoreapp2.2\CarPool.AssemblyInfo.cs
+C:\Users\peter\Documents\code\CarPool\obj\Debug\netcoreapp2.2\CarPool.dll
+C:\Users\peter\Documents\code\CarPool\obj\Debug\netcoreapp2.2\CarPool.pdb

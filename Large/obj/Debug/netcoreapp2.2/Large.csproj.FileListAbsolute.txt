@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\Large\bin\Debug\netcoreapp2.2\Large.deps.json
+C:\Users\peter\Documents\code\Large\bin\Debug\netcoreapp2.2\Large.runtimeconfig.json
+C:\Users\peter\Documents\code\Large\bin\Debug\netcoreapp2.2\Large.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\Large\bin\Debug\netcoreapp2.2\Large.dll
+C:\Users\peter\Documents\code\Large\bin\Debug\netcoreapp2.2\Large.pdb
+C:\Users\peter\Documents\code\Large\obj\Debug\netcoreapp2.2\Large.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\Large\obj\Debug\netcoreapp2.2\Large.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\Large\obj\Debug\netcoreapp2.2\Large.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\Large\obj\Debug\netcoreapp2.2\Large.AssemblyInfo.cs
+C:\Users\peter\Documents\code\Large\obj\Debug\netcoreapp2.2\Large.dll
+C:\Users\peter\Documents\code\Large\obj\Debug\netcoreapp2.2\Large.pdb

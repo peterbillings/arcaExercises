@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\LargeOrSmall\obj\Debug\netcoreapp2.2\LargeOrSmall.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\LargeOrSmall\obj\Debug\netcoreapp2.2\LargeOrSmall.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\LargeOrSmall\obj\Debug\netcoreapp2.2\LargeOrSmall.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\LargeOrSmall\obj\Debug\netcoreapp2.2\LargeOrSmall.AssemblyInfo.cs
+C:\Users\peter\Documents\code\LargeOrSmall\bin\Debug\netcoreapp2.2\LargeOrSmall.deps.json
+C:\Users\peter\Documents\code\LargeOrSmall\bin\Debug\netcoreapp2.2\LargeOrSmall.runtimeconfig.json
+C:\Users\peter\Documents\code\LargeOrSmall\bin\Debug\netcoreapp2.2\LargeOrSmall.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\LargeOrSmall\bin\Debug\netcoreapp2.2\LargeOrSmall.dll
+C:\Users\peter\Documents\code\LargeOrSmall\bin\Debug\netcoreapp2.2\LargeOrSmall.pdb
+C:\Users\peter\Documents\code\LargeOrSmall\obj\Debug\netcoreapp2.2\LargeOrSmall.dll
+C:\Users\peter\Documents\code\LargeOrSmall\obj\Debug\netcoreapp2.2\LargeOrSmall.pdb

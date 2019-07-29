@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\SpacePatrol\bin\Debug\netcoreapp2.2\SpacePatrol.deps.json
+C:\Users\peter\Documents\code\SpacePatrol\bin\Debug\netcoreapp2.2\SpacePatrol.runtimeconfig.json
+C:\Users\peter\Documents\code\SpacePatrol\bin\Debug\netcoreapp2.2\SpacePatrol.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\SpacePatrol\bin\Debug\netcoreapp2.2\SpacePatrol.dll
+C:\Users\peter\Documents\code\SpacePatrol\bin\Debug\netcoreapp2.2\SpacePatrol.pdb
+C:\Users\peter\Documents\code\SpacePatrol\obj\Debug\netcoreapp2.2\SpacePatrol.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\SpacePatrol\obj\Debug\netcoreapp2.2\SpacePatrol.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\SpacePatrol\obj\Debug\netcoreapp2.2\SpacePatrol.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\SpacePatrol\obj\Debug\netcoreapp2.2\SpacePatrol.AssemblyInfo.cs
+C:\Users\peter\Documents\code\SpacePatrol\obj\Debug\netcoreapp2.2\SpacePatrol.dll
+C:\Users\peter\Documents\code\SpacePatrol\obj\Debug\netcoreapp2.2\SpacePatrol.pdb

@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\Triangle\bin\Debug\netcoreapp2.2\Triangle.deps.json
+C:\Users\peter\Documents\code\Triangle\bin\Debug\netcoreapp2.2\Triangle.runtimeconfig.json
+C:\Users\peter\Documents\code\Triangle\bin\Debug\netcoreapp2.2\Triangle.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\Triangle\bin\Debug\netcoreapp2.2\Triangle.dll
+C:\Users\peter\Documents\code\Triangle\bin\Debug\netcoreapp2.2\Triangle.pdb
+C:\Users\peter\Documents\code\Triangle\obj\Debug\netcoreapp2.2\Triangle.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\Triangle\obj\Debug\netcoreapp2.2\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\Triangle\obj\Debug\netcoreapp2.2\Triangle.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\Triangle\obj\Debug\netcoreapp2.2\Triangle.AssemblyInfo.cs
+C:\Users\peter\Documents\code\Triangle\obj\Debug\netcoreapp2.2\Triangle.dll
+C:\Users\peter\Documents\code\Triangle\obj\Debug\netcoreapp2.2\Triangle.pdb

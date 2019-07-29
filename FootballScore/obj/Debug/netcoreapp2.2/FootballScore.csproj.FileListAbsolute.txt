@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\FootballScore\obj\Debug\netcoreapp2.2\FootballScore.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\FootballScore\obj\Debug\netcoreapp2.2\FootballScore.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\FootballScore\obj\Debug\netcoreapp2.2\FootballScore.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\FootballScore\obj\Debug\netcoreapp2.2\FootballScore.AssemblyInfo.cs
+C:\Users\peter\Documents\code\FootballScore\bin\Debug\netcoreapp2.2\FootballScore.deps.json
+C:\Users\peter\Documents\code\FootballScore\bin\Debug\netcoreapp2.2\FootballScore.runtimeconfig.json
+C:\Users\peter\Documents\code\FootballScore\bin\Debug\netcoreapp2.2\FootballScore.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\FootballScore\bin\Debug\netcoreapp2.2\FootballScore.dll
+C:\Users\peter\Documents\code\FootballScore\bin\Debug\netcoreapp2.2\FootballScore.pdb
+C:\Users\peter\Documents\code\FootballScore\obj\Debug\netcoreapp2.2\FootballScore.dll
+C:\Users\peter\Documents\code\FootballScore\obj\Debug\netcoreapp2.2\FootballScore.pdb

@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\TriangleArea\bin\Debug\netcoreapp2.2\TriangleArea.deps.json
+C:\Users\peter\Documents\code\TriangleArea\bin\Debug\netcoreapp2.2\TriangleArea.runtimeconfig.json
+C:\Users\peter\Documents\code\TriangleArea\bin\Debug\netcoreapp2.2\TriangleArea.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\TriangleArea\bin\Debug\netcoreapp2.2\TriangleArea.dll
+C:\Users\peter\Documents\code\TriangleArea\bin\Debug\netcoreapp2.2\TriangleArea.pdb
+C:\Users\peter\Documents\code\TriangleArea\obj\Debug\netcoreapp2.2\TriangleArea.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\TriangleArea\obj\Debug\netcoreapp2.2\TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\TriangleArea\obj\Debug\netcoreapp2.2\TriangleArea.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\TriangleArea\obj\Debug\netcoreapp2.2\TriangleArea.AssemblyInfo.cs
+C:\Users\peter\Documents\code\TriangleArea\obj\Debug\netcoreapp2.2\TriangleArea.dll
+C:\Users\peter\Documents\code\TriangleArea\obj\Debug\netcoreapp2.2\TriangleArea.pdb

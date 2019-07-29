@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\ArrayCopyPractice\bin\Debug\netcoreapp2.2\ArrayCopyPractice.deps.json
+C:\Users\peter\Documents\code\ArrayCopyPractice\bin\Debug\netcoreapp2.2\ArrayCopyPractice.runtimeconfig.json
+C:\Users\peter\Documents\code\ArrayCopyPractice\bin\Debug\netcoreapp2.2\ArrayCopyPractice.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\ArrayCopyPractice\bin\Debug\netcoreapp2.2\ArrayCopyPractice.dll
+C:\Users\peter\Documents\code\ArrayCopyPractice\bin\Debug\netcoreapp2.2\ArrayCopyPractice.pdb
+C:\Users\peter\Documents\code\ArrayCopyPractice\obj\Debug\netcoreapp2.2\ArrayCopyPractice.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\ArrayCopyPractice\obj\Debug\netcoreapp2.2\ArrayCopyPractice.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\ArrayCopyPractice\obj\Debug\netcoreapp2.2\ArrayCopyPractice.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\ArrayCopyPractice\obj\Debug\netcoreapp2.2\ArrayCopyPractice.AssemblyInfo.cs
+C:\Users\peter\Documents\code\ArrayCopyPractice\obj\Debug\netcoreapp2.2\ArrayCopyPractice.dll
+C:\Users\peter\Documents\code\ArrayCopyPractice\obj\Debug\netcoreapp2.2\ArrayCopyPractice.pdb

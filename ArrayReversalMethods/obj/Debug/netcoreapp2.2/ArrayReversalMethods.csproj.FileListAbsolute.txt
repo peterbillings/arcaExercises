@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\ArrayReversalMethods\bin\Debug\netcoreapp2.2\ArrayReversalMethods.deps.json
+C:\Users\peter\Documents\code\ArrayReversalMethods\bin\Debug\netcoreapp2.2\ArrayReversalMethods.runtimeconfig.json
+C:\Users\peter\Documents\code\ArrayReversalMethods\bin\Debug\netcoreapp2.2\ArrayReversalMethods.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\ArrayReversalMethods\bin\Debug\netcoreapp2.2\ArrayReversalMethods.dll
+C:\Users\peter\Documents\code\ArrayReversalMethods\bin\Debug\netcoreapp2.2\ArrayReversalMethods.pdb
+C:\Users\peter\Documents\code\ArrayReversalMethods\obj\Debug\netcoreapp2.2\ArrayReversalMethods.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\ArrayReversalMethods\obj\Debug\netcoreapp2.2\ArrayReversalMethods.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\ArrayReversalMethods\obj\Debug\netcoreapp2.2\ArrayReversalMethods.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\ArrayReversalMethods\obj\Debug\netcoreapp2.2\ArrayReversalMethods.AssemblyInfo.cs
+C:\Users\peter\Documents\code\ArrayReversalMethods\obj\Debug\netcoreapp2.2\ArrayReversalMethods.dll
+C:\Users\peter\Documents\code\ArrayReversalMethods\obj\Debug\netcoreapp2.2\ArrayReversalMethods.pdb

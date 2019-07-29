@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\RandomDicePractice\bin\Debug\netcoreapp2.2\RandomDicePractice.deps.json
+C:\Users\peter\Documents\code\RandomDicePractice\bin\Debug\netcoreapp2.2\RandomDicePractice.runtimeconfig.json
+C:\Users\peter\Documents\code\RandomDicePractice\bin\Debug\netcoreapp2.2\RandomDicePractice.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\RandomDicePractice\bin\Debug\netcoreapp2.2\RandomDicePractice.dll
+C:\Users\peter\Documents\code\RandomDicePractice\bin\Debug\netcoreapp2.2\RandomDicePractice.pdb
+C:\Users\peter\Documents\code\RandomDicePractice\obj\Debug\netcoreapp2.2\RandomDicePractice.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\RandomDicePractice\obj\Debug\netcoreapp2.2\RandomDicePractice.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\RandomDicePractice\obj\Debug\netcoreapp2.2\RandomDicePractice.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\RandomDicePractice\obj\Debug\netcoreapp2.2\RandomDicePractice.AssemblyInfo.cs
+C:\Users\peter\Documents\code\RandomDicePractice\obj\Debug\netcoreapp2.2\RandomDicePractice.dll
+C:\Users\peter\Documents\code\RandomDicePractice\obj\Debug\netcoreapp2.2\RandomDicePractice.pdb

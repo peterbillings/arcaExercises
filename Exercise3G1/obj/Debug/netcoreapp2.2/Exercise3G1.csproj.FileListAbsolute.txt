@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\Exercise3G1\bin\Debug\netcoreapp2.2\Exercise3G1.deps.json
+C:\Users\peter\Documents\code\Exercise3G1\bin\Debug\netcoreapp2.2\Exercise3G1.runtimeconfig.json
+C:\Users\peter\Documents\code\Exercise3G1\bin\Debug\netcoreapp2.2\Exercise3G1.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\Exercise3G1\bin\Debug\netcoreapp2.2\Exercise3G1.dll
+C:\Users\peter\Documents\code\Exercise3G1\bin\Debug\netcoreapp2.2\Exercise3G1.pdb
+C:\Users\peter\Documents\code\Exercise3G1\obj\Debug\netcoreapp2.2\Exercise3G1.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\Exercise3G1\obj\Debug\netcoreapp2.2\Exercise3G1.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\Exercise3G1\obj\Debug\netcoreapp2.2\Exercise3G1.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\Exercise3G1\obj\Debug\netcoreapp2.2\Exercise3G1.AssemblyInfo.cs
+C:\Users\peter\Documents\code\Exercise3G1\obj\Debug\netcoreapp2.2\Exercise3G1.dll
+C:\Users\peter\Documents\code\Exercise3G1\obj\Debug\netcoreapp2.2\Exercise3G1.pdb

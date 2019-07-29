@@ -1,0 +1,14 @@
+C:\Users\peter\Documents\code\northwind_api\northwindApi\bin\Debug\netcoreapp2.2\northwindApi.deps.json
+C:\Users\peter\Documents\code\northwind_api\northwindApi\bin\Debug\netcoreapp2.2\northwindApi.runtimeconfig.json
+C:\Users\peter\Documents\code\northwind_api\northwindApi\bin\Debug\netcoreapp2.2\northwindApi.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\northwind_api\northwindApi\bin\Debug\netcoreapp2.2\northwindApi.dll
+C:\Users\peter\Documents\code\northwind_api\northwindApi\bin\Debug\netcoreapp2.2\northwindApi.pdb
+C:\Users\peter\Documents\code\northwind_api\northwindApi\obj\Debug\netcoreapp2.2\northwindApi.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\northwind_api\northwindApi\obj\Debug\netcoreapp2.2\northwindApi.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\northwind_api\northwindApi\obj\Debug\netcoreapp2.2\northwindApi.RazorAssemblyInfo.cache
+C:\Users\peter\Documents\code\northwind_api\northwindApi\obj\Debug\netcoreapp2.2\northwindApi.RazorAssemblyInfo.cs
+C:\Users\peter\Documents\code\northwind_api\northwindApi\obj\Debug\netcoreapp2.2\northwindApi.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\northwind_api\northwindApi\obj\Debug\netcoreapp2.2\northwindApi.AssemblyInfo.cs
+C:\Users\peter\Documents\code\northwind_api\northwindApi\obj\Debug\netcoreapp2.2\northwindApi.RazorTargetAssemblyInfo.cache
+C:\Users\peter\Documents\code\northwind_api\northwindApi\obj\Debug\netcoreapp2.2\northwindApi.dll
+C:\Users\peter\Documents\code\northwind_api\northwindApi\obj\Debug\netcoreapp2.2\northwindApi.pdb

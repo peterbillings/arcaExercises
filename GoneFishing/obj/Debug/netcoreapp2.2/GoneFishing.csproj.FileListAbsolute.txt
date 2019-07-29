@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\GoneFishing\obj\Debug\netcoreapp2.2\GoneFishing.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\GoneFishing\obj\Debug\netcoreapp2.2\GoneFishing.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\GoneFishing\obj\Debug\netcoreapp2.2\GoneFishing.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\GoneFishing\obj\Debug\netcoreapp2.2\GoneFishing.AssemblyInfo.cs
+C:\Users\peter\Documents\code\GoneFishing\bin\Debug\netcoreapp2.2\GoneFishing.deps.json
+C:\Users\peter\Documents\code\GoneFishing\bin\Debug\netcoreapp2.2\GoneFishing.runtimeconfig.json
+C:\Users\peter\Documents\code\GoneFishing\bin\Debug\netcoreapp2.2\GoneFishing.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\GoneFishing\bin\Debug\netcoreapp2.2\GoneFishing.dll
+C:\Users\peter\Documents\code\GoneFishing\bin\Debug\netcoreapp2.2\GoneFishing.pdb
+C:\Users\peter\Documents\code\GoneFishing\obj\Debug\netcoreapp2.2\GoneFishing.dll
+C:\Users\peter\Documents\code\GoneFishing\obj\Debug\netcoreapp2.2\GoneFishing.pdb

@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\TypeConversionExperiment\bin\Debug\netcoreapp2.2\TypeConversionExperiment.deps.json
+C:\Users\peter\Documents\code\TypeConversionExperiment\bin\Debug\netcoreapp2.2\TypeConversionExperiment.runtimeconfig.json
+C:\Users\peter\Documents\code\TypeConversionExperiment\bin\Debug\netcoreapp2.2\TypeConversionExperiment.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\TypeConversionExperiment\bin\Debug\netcoreapp2.2\TypeConversionExperiment.dll
+C:\Users\peter\Documents\code\TypeConversionExperiment\bin\Debug\netcoreapp2.2\TypeConversionExperiment.pdb
+C:\Users\peter\Documents\code\TypeConversionExperiment\obj\Debug\netcoreapp2.2\TypeConversionExperiment.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\TypeConversionExperiment\obj\Debug\netcoreapp2.2\TypeConversionExperiment.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\TypeConversionExperiment\obj\Debug\netcoreapp2.2\TypeConversionExperiment.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\TypeConversionExperiment\obj\Debug\netcoreapp2.2\TypeConversionExperiment.AssemblyInfo.cs
+C:\Users\peter\Documents\code\TypeConversionExperiment\obj\Debug\netcoreapp2.2\TypeConversionExperiment.dll
+C:\Users\peter\Documents\code\TypeConversionExperiment\obj\Debug\netcoreapp2.2\TypeConversionExperiment.pdb

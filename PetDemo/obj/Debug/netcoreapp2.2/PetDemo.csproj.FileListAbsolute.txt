@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\PetDemo\obj\Debug\netcoreapp2.2\PetDemo.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\PetDemo\obj\Debug\netcoreapp2.2\PetDemo.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\PetDemo\obj\Debug\netcoreapp2.2\PetDemo.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\PetDemo\obj\Debug\netcoreapp2.2\PetDemo.AssemblyInfo.cs
+C:\Users\peter\Documents\code\PetDemo\bin\Debug\netcoreapp2.2\PetDemo.deps.json
+C:\Users\peter\Documents\code\PetDemo\bin\Debug\netcoreapp2.2\PetDemo.runtimeconfig.json
+C:\Users\peter\Documents\code\PetDemo\bin\Debug\netcoreapp2.2\PetDemo.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\PetDemo\bin\Debug\netcoreapp2.2\PetDemo.dll
+C:\Users\peter\Documents\code\PetDemo\bin\Debug\netcoreapp2.2\PetDemo.pdb
+C:\Users\peter\Documents\code\PetDemo\obj\Debug\netcoreapp2.2\PetDemo.dll
+C:\Users\peter\Documents\code\PetDemo\obj\Debug\netcoreapp2.2\PetDemo.pdb

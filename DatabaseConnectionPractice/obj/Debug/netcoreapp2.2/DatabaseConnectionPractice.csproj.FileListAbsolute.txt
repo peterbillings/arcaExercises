@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\DatabaseConnectionPractice\bin\Debug\netcoreapp2.2\DatabaseConnectionPractice.deps.json
+C:\Users\peter\Documents\code\DatabaseConnectionPractice\bin\Debug\netcoreapp2.2\DatabaseConnectionPractice.runtimeconfig.json
+C:\Users\peter\Documents\code\DatabaseConnectionPractice\bin\Debug\netcoreapp2.2\DatabaseConnectionPractice.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\DatabaseConnectionPractice\bin\Debug\netcoreapp2.2\DatabaseConnectionPractice.dll
+C:\Users\peter\Documents\code\DatabaseConnectionPractice\bin\Debug\netcoreapp2.2\DatabaseConnectionPractice.pdb
+C:\Users\peter\Documents\code\DatabaseConnectionPractice\obj\Debug\netcoreapp2.2\DatabaseConnectionPractice.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\DatabaseConnectionPractice\obj\Debug\netcoreapp2.2\DatabaseConnectionPractice.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\DatabaseConnectionPractice\obj\Debug\netcoreapp2.2\DatabaseConnectionPractice.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\DatabaseConnectionPractice\obj\Debug\netcoreapp2.2\DatabaseConnectionPractice.AssemblyInfo.cs
+C:\Users\peter\Documents\code\DatabaseConnectionPractice\obj\Debug\netcoreapp2.2\DatabaseConnectionPractice.dll
+C:\Users\peter\Documents\code\DatabaseConnectionPractice\obj\Debug\netcoreapp2.2\DatabaseConnectionPractice.pdb

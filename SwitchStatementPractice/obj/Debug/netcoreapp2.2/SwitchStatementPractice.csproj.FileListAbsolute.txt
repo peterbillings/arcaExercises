@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\SwitchStatementPractice\bin\Debug\netcoreapp2.2\SwitchStatementPractice.deps.json
+C:\Users\peter\Documents\code\SwitchStatementPractice\bin\Debug\netcoreapp2.2\SwitchStatementPractice.runtimeconfig.json
+C:\Users\peter\Documents\code\SwitchStatementPractice\bin\Debug\netcoreapp2.2\SwitchStatementPractice.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\SwitchStatementPractice\bin\Debug\netcoreapp2.2\SwitchStatementPractice.dll
+C:\Users\peter\Documents\code\SwitchStatementPractice\bin\Debug\netcoreapp2.2\SwitchStatementPractice.pdb
+C:\Users\peter\Documents\code\SwitchStatementPractice\obj\Debug\netcoreapp2.2\SwitchStatementPractice.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\SwitchStatementPractice\obj\Debug\netcoreapp2.2\SwitchStatementPractice.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\SwitchStatementPractice\obj\Debug\netcoreapp2.2\SwitchStatementPractice.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\SwitchStatementPractice\obj\Debug\netcoreapp2.2\SwitchStatementPractice.AssemblyInfo.cs
+C:\Users\peter\Documents\code\SwitchStatementPractice\obj\Debug\netcoreapp2.2\SwitchStatementPractice.dll
+C:\Users\peter\Documents\code\SwitchStatementPractice\obj\Debug\netcoreapp2.2\SwitchStatementPractice.pdb

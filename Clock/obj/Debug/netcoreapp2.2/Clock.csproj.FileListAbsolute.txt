@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\Clock\bin\Debug\netcoreapp2.2\Clock.deps.json
+C:\Users\peter\Documents\code\Clock\bin\Debug\netcoreapp2.2\Clock.runtimeconfig.json
+C:\Users\peter\Documents\code\Clock\bin\Debug\netcoreapp2.2\Clock.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\Clock\bin\Debug\netcoreapp2.2\Clock.dll
+C:\Users\peter\Documents\code\Clock\bin\Debug\netcoreapp2.2\Clock.pdb
+C:\Users\peter\Documents\code\Clock\obj\Debug\netcoreapp2.2\Clock.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\Clock\obj\Debug\netcoreapp2.2\Clock.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\Clock\obj\Debug\netcoreapp2.2\Clock.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\Clock\obj\Debug\netcoreapp2.2\Clock.AssemblyInfo.cs
+C:\Users\peter\Documents\code\Clock\obj\Debug\netcoreapp2.2\Clock.dll
+C:\Users\peter\Documents\code\Clock\obj\Debug\netcoreapp2.2\Clock.pdb

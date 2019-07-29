@@ -6,7 +6,7 @@ namespace FibonacciRecursion
     {
         static void Main(string[] args)
         {
-            Console.Write("Please enter how manys numbers of the Fibonacci sequence you wish to see: ");
+            Console.Write("Please enter how many numbers of the Fibonacci sequence you wish to see: ");
 
             int fibonacciNumber = Convert.ToInt32(Console.ReadLine());
 
@@ -24,14 +24,14 @@ namespace FibonacciRecursion
             }
         }
 
-        public static int Fibonacci(int sequenceNumber)
+        private static int Fibonacci(int sequenceNumber)
         {
             if(sequenceNumber == 1 || sequenceNumber == 2)
             {
                 return 1;
             }
 
-          return Fibonacci(sequenceNumber - 2) + Fibonacci(sequenceNumber - 1);
+            return Fibonacci(sequenceNumber - 2) + Fibonacci(sequenceNumber - 1);
         }
     }
 }

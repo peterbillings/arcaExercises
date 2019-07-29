@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\PrintOddity\bin\Debug\netcoreapp2.2\PrintOddity.deps.json
+C:\Users\peter\Documents\code\PrintOddity\bin\Debug\netcoreapp2.2\PrintOddity.runtimeconfig.json
+C:\Users\peter\Documents\code\PrintOddity\bin\Debug\netcoreapp2.2\PrintOddity.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\PrintOddity\bin\Debug\netcoreapp2.2\PrintOddity.dll
+C:\Users\peter\Documents\code\PrintOddity\bin\Debug\netcoreapp2.2\PrintOddity.pdb
+C:\Users\peter\Documents\code\PrintOddity\obj\Debug\netcoreapp2.2\PrintOddity.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\PrintOddity\obj\Debug\netcoreapp2.2\PrintOddity.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\PrintOddity\obj\Debug\netcoreapp2.2\PrintOddity.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\PrintOddity\obj\Debug\netcoreapp2.2\PrintOddity.AssemblyInfo.cs
+C:\Users\peter\Documents\code\PrintOddity\obj\Debug\netcoreapp2.2\PrintOddity.dll
+C:\Users\peter\Documents\code\PrintOddity\obj\Debug\netcoreapp2.2\PrintOddity.pdb

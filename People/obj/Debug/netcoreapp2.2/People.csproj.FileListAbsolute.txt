@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\People\bin\Debug\netcoreapp2.2\People.deps.json
+C:\Users\peter\Documents\code\People\bin\Debug\netcoreapp2.2\People.runtimeconfig.json
+C:\Users\peter\Documents\code\People\bin\Debug\netcoreapp2.2\People.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\People\bin\Debug\netcoreapp2.2\People.dll
+C:\Users\peter\Documents\code\People\bin\Debug\netcoreapp2.2\People.pdb
+C:\Users\peter\Documents\code\People\obj\Debug\netcoreapp2.2\People.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\People\obj\Debug\netcoreapp2.2\People.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\People\obj\Debug\netcoreapp2.2\People.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\People\obj\Debug\netcoreapp2.2\People.AssemblyInfo.cs
+C:\Users\peter\Documents\code\People\obj\Debug\netcoreapp2.2\People.dll
+C:\Users\peter\Documents\code\People\obj\Debug\netcoreapp2.2\People.pdb

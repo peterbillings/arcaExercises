@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+    <header>
+        <link rel="stylesheet" type="text/css" href="./css/site.css">
+
+    </header>
+    <body>
+        <p>This page is for testing AJAX calls to an ASP.NET core web API.</p>
+        <button id="ajaxbutton">Mysterious AJAX call!</button>
+        <button><a href="./page2.html">Next Page</a></button>
+        <p id="injectionTarget">Danger: Do Not Push The AJAX Button!</p>
+        <ul id="gameboard">
+            <li class="square" id="7"></li>
+            <li class="square" id="8"></li>
+            <li class="square" id="9"></li>
+            <li class="square" id="4"></li>
+            <li class="square" id="5"></li>
+            <li class="square" id="6"></li>
+            <li class="square" id="1"></li>
+            <li class="square" id="2"></li>
+            <li class="square" id="3"></li>
+        </ul>
+        <p class="gamestate" id="xturn">Player X Make A Move!</p>
+        <p class="gamestate" id="oturn">Player O Make A Move!</p>
+        <p class="gamestate" id="xwins">Player X Wins!</p>
+        <p class="gamestate" id="owins">Player O Wins!</p>
+        <p class="gamestate" id="draw">It's A Draw!</p>
+        <button class="gamestate" id="reset">RESET!</button>
+    </body>
+    <script type="text/javascript" src="./js/site.js"></script>
+
+</html>

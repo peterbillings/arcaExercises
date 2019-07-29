@@ -20,7 +20,6 @@ namespace TicTacToe
                 RenderBoard boardPrinter = new RenderBoard();
                 TurnTracker turnTracker = new TurnTracker();
                 Player player = new Player();
-                InputChecker inputChecker = new InputChecker();
 
                 turnTracker.DecideFirstPlayer();
 
@@ -32,31 +31,19 @@ namespace TicTacToe
                     
                     Console.WriteLine($"Player {turnTracker.GetCurrentTurn()}, make a move!");
 
-                    string playerMove = Console.ReadLine();
-                    
-                    while (! inputChecker.IsInputTypeAndRangeCorrect(playerMove))
-                    {
-                        Console.WriteLine("Invalid input! Try again! (1-9)");
-                        playerMove = Console.ReadLine();
-                    }
+                    Position positionChoice = player.ChooseASquareOnTheBoard(Console.ReadLine());
 
                     while (true)
                     {
-                        if (gameBoard.GetPositionState(player.ChooseASquareOnTheBoard(playerMove)) == PositionState._)
+                        if (gameBoard.GetPositionState(positionChoice) == PositionState._)
                         {
-                            gameBoard.SetPositionState(player.ChooseASquareOnTheBoard(playerMove), turnTracker.GetCurrentTurn());
+                            gameBoard.SetPositionState(positionChoice, turnTracker.GetCurrentTurn());
                             break;
                         }
                         
                         Console.WriteLine("That space is already occupied! Please try again!");
                         
-                        playerMove = Console.ReadLine();
-
-                        while (! inputChecker.IsInputTypeAndRangeCorrect(playerMove))
-                        {
-                            Console.WriteLine("Invalid input! Try again! (1-9)");
-                            playerMove = Console.ReadLine();
-                        }
+                        positionChoice = player.ChooseASquareOnTheBoard(Console.ReadLine());
                     }
 
                     if (turnTracker.GetTurnCount() > 4)

@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\RideAdmittance\bin\Debug\netcoreapp2.2\RideAdmittance.deps.json
+C:\Users\peter\Documents\code\RideAdmittance\bin\Debug\netcoreapp2.2\RideAdmittance.runtimeconfig.json
+C:\Users\peter\Documents\code\RideAdmittance\bin\Debug\netcoreapp2.2\RideAdmittance.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\RideAdmittance\bin\Debug\netcoreapp2.2\RideAdmittance.dll
+C:\Users\peter\Documents\code\RideAdmittance\bin\Debug\netcoreapp2.2\RideAdmittance.pdb
+C:\Users\peter\Documents\code\RideAdmittance\obj\Debug\netcoreapp2.2\RideAdmittance.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\RideAdmittance\obj\Debug\netcoreapp2.2\RideAdmittance.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\RideAdmittance\obj\Debug\netcoreapp2.2\RideAdmittance.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\RideAdmittance\obj\Debug\netcoreapp2.2\RideAdmittance.AssemblyInfo.cs
+C:\Users\peter\Documents\code\RideAdmittance\obj\Debug\netcoreapp2.2\RideAdmittance.dll
+C:\Users\peter\Documents\code\RideAdmittance\obj\Debug\netcoreapp2.2\RideAdmittance.pdb

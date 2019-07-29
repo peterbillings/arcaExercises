@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\CatLives\bin\Debug\netcoreapp2.2\CatLives.deps.json
+C:\Users\peter\Documents\code\CatLives\bin\Debug\netcoreapp2.2\CatLives.runtimeconfig.json
+C:\Users\peter\Documents\code\CatLives\bin\Debug\netcoreapp2.2\CatLives.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\CatLives\bin\Debug\netcoreapp2.2\CatLives.dll
+C:\Users\peter\Documents\code\CatLives\bin\Debug\netcoreapp2.2\CatLives.pdb
+C:\Users\peter\Documents\code\CatLives\obj\Debug\netcoreapp2.2\CatLives.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\CatLives\obj\Debug\netcoreapp2.2\CatLives.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\CatLives\obj\Debug\netcoreapp2.2\CatLives.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\CatLives\obj\Debug\netcoreapp2.2\CatLives.AssemblyInfo.cs
+C:\Users\peter\Documents\code\CatLives\obj\Debug\netcoreapp2.2\CatLives.dll
+C:\Users\peter\Documents\code\CatLives\obj\Debug\netcoreapp2.2\CatLives.pdb

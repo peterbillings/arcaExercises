@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\TongueWeight\bin\Debug\netcoreapp2.2\TongueWeight.deps.json
+C:\Users\peter\Documents\code\TongueWeight\bin\Debug\netcoreapp2.2\TongueWeight.runtimeconfig.json
+C:\Users\peter\Documents\code\TongueWeight\bin\Debug\netcoreapp2.2\TongueWeight.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\TongueWeight\bin\Debug\netcoreapp2.2\TongueWeight.dll
+C:\Users\peter\Documents\code\TongueWeight\bin\Debug\netcoreapp2.2\TongueWeight.pdb
+C:\Users\peter\Documents\code\TongueWeight\obj\Debug\netcoreapp2.2\TongueWeight.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\TongueWeight\obj\Debug\netcoreapp2.2\TongueWeight.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\TongueWeight\obj\Debug\netcoreapp2.2\TongueWeight.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\TongueWeight\obj\Debug\netcoreapp2.2\TongueWeight.AssemblyInfo.cs
+C:\Users\peter\Documents\code\TongueWeight\obj\Debug\netcoreapp2.2\TongueWeight.dll
+C:\Users\peter\Documents\code\TongueWeight\obj\Debug\netcoreapp2.2\TongueWeight.pdb

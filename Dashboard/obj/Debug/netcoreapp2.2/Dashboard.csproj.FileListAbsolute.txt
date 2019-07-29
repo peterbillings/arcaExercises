@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\Dashboard\obj\Debug\netcoreapp2.2\Dashboard.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\Dashboard\obj\Debug\netcoreapp2.2\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\Dashboard\obj\Debug\netcoreapp2.2\Dashboard.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\Dashboard\obj\Debug\netcoreapp2.2\Dashboard.AssemblyInfo.cs
+C:\Users\peter\Documents\code\Dashboard\bin\Debug\netcoreapp2.2\Dashboard.deps.json
+C:\Users\peter\Documents\code\Dashboard\bin\Debug\netcoreapp2.2\Dashboard.runtimeconfig.json
+C:\Users\peter\Documents\code\Dashboard\bin\Debug\netcoreapp2.2\Dashboard.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\Dashboard\bin\Debug\netcoreapp2.2\Dashboard.dll
+C:\Users\peter\Documents\code\Dashboard\bin\Debug\netcoreapp2.2\Dashboard.pdb
+C:\Users\peter\Documents\code\Dashboard\obj\Debug\netcoreapp2.2\Dashboard.dll
+C:\Users\peter\Documents\code\Dashboard\obj\Debug\netcoreapp2.2\Dashboard.pdb

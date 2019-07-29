@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+        <meta name="generator" content="Jekyll v3.8.5">
+        <title>Form Data Practice</title>
+        <link rel="stylesheet" type="text/css" href="./lib/bootstrap/dist/css/bootstrap-grid.css">
+        <link rel="stylesheet" type="text/css" href="./lib/bootstrap/dist/css/bootstrap.css">
+        <link rel="stylesheet" type="text/css" href="./lib/bootstrap/dist/css/bootstrap-reboot.css">
+
+    </head>
+    <body>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm">
+            <form id="inventoryUpdateForm"  role="form">
+                <div class="form-group">
+                  <label for="inputNewItem">Item</label>
+                  <input type="text" name="itemName" class="form-control" id="inputNewItem" aria-describedby="inputDescriptor" placeholder="Enter Item Name">
+                  <small id="inputDescriptor" class="form-text text-muted">Enter a new item into your inventory</small>
+                </div>
+                <div class="form-group">
+                  <label for="inputQuantityOfItems">Quantity</label>
+                  <input type="number" name="quantity" class="form-control" id="inputQuantityOfItems" placeholder="How many?">
+                </div>
+                <div class="form-group">
+                    <label for="describeNewItem">Details</label>
+                    <input type="text" name="description" class="form-control" id="describeNewItem" aria-describedby="descriptionInstructions" placeholder="Describe the item">
+                    <small id="descriptionInstructions" class="form-text text-muted">Describe the item</small>
+                </div>
+                <div class="form-check">
+                  <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                  <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+          </div>
+          <div class="col-sm">Other Column!</div>
+        </div>
+        <form id="dummyForm">
+          <input name="firstNumber" type="number">
+          <input name="secondNumber" type="number">
+          <input type="submit" value="Submit">
+        </form>
+      </div>
+    </body>
+    <script type="text/javascript" src="./js/site.js"></script>
+</html>

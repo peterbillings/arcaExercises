@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\ForeachPractice\bin\Debug\netcoreapp2.2\ForeachPractice.deps.json
+C:\Users\peter\Documents\code\ForeachPractice\bin\Debug\netcoreapp2.2\ForeachPractice.runtimeconfig.json
+C:\Users\peter\Documents\code\ForeachPractice\bin\Debug\netcoreapp2.2\ForeachPractice.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\ForeachPractice\bin\Debug\netcoreapp2.2\ForeachPractice.dll
+C:\Users\peter\Documents\code\ForeachPractice\bin\Debug\netcoreapp2.2\ForeachPractice.pdb
+C:\Users\peter\Documents\code\ForeachPractice\obj\Debug\netcoreapp2.2\ForeachPractice.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\ForeachPractice\obj\Debug\netcoreapp2.2\ForeachPractice.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\ForeachPractice\obj\Debug\netcoreapp2.2\ForeachPractice.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\ForeachPractice\obj\Debug\netcoreapp2.2\ForeachPractice.AssemblyInfo.cs
+C:\Users\peter\Documents\code\ForeachPractice\obj\Debug\netcoreapp2.2\ForeachPractice.dll
+C:\Users\peter\Documents\code\ForeachPractice\obj\Debug\netcoreapp2.2\ForeachPractice.pdb

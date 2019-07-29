@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\CodeTestSandbox\bin\Debug\netcoreapp2.2\CodeTestSandbox.deps.json
+C:\Users\peter\Documents\code\CodeTestSandbox\bin\Debug\netcoreapp2.2\CodeTestSandbox.runtimeconfig.json
+C:\Users\peter\Documents\code\CodeTestSandbox\bin\Debug\netcoreapp2.2\CodeTestSandbox.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\CodeTestSandbox\bin\Debug\netcoreapp2.2\CodeTestSandbox.dll
+C:\Users\peter\Documents\code\CodeTestSandbox\bin\Debug\netcoreapp2.2\CodeTestSandbox.pdb
+C:\Users\peter\Documents\code\CodeTestSandbox\obj\Debug\netcoreapp2.2\CodeTestSandbox.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\CodeTestSandbox\obj\Debug\netcoreapp2.2\CodeTestSandbox.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\CodeTestSandbox\obj\Debug\netcoreapp2.2\CodeTestSandbox.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\CodeTestSandbox\obj\Debug\netcoreapp2.2\CodeTestSandbox.AssemblyInfo.cs
+C:\Users\peter\Documents\code\CodeTestSandbox\obj\Debug\netcoreapp2.2\CodeTestSandbox.dll
+C:\Users\peter\Documents\code\CodeTestSandbox\obj\Debug\netcoreapp2.2\CodeTestSandbox.pdb

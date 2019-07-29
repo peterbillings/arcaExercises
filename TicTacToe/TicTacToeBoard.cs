@@ -6,7 +6,6 @@ namespace TicTacToe
     {
         private PositionState[,] board;
 
-
         public TicTacToeBoard()
         {
             board = new PositionState[3,3];
@@ -20,16 +19,24 @@ namespace TicTacToe
             for (int i = 1; i <= 9; i++)
             {
                 if (i != 1 && i%3 == 1)
+                {
                     row++;
+                }
 
-                if ( !(i%3 == 1))
+                if ( i%3 != 1 )
+                {
                     column++;
+                }
 
                 else
+                {
                     column = 0;
+                }
                 
-                if ((int)position == i)
-                    break;   
+                if ( (int)position == i )
+                {
+                    break;
+                }  
             }
 
             return board[row,column];
@@ -43,20 +50,27 @@ namespace TicTacToe
             for (int i = 1; i <= 9; i++)
             {
                 if (i != 1 && i%3 == 1)
+                {
                     row++;
+                }
 
-                if ( !(i%3 == 1))
+                if ( i%3 != 1 )
+                {
                     column++;
+                }
                     
                 else
+                {
                     column = 0;
+                }
                 
-                if ((int)position == i)
-                    break;   
+                if ( (int)position == i )
+                {
+                    break;
+                }
             }
 
             board[row, column] = positionState;
-
         }
 
         // public void BoardWipe(TicTacToeBoard gameBoard)

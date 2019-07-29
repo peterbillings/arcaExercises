@@ -29,13 +29,15 @@ public class titleCase
         return outputString;
     }
 
-    public void setInputString(string newInputString)
+    public string InputString
     {
-        inputString = newInputString;
-    }
-
-    public string getInputString()
-    {
-        return inputString;
+        get
+        {
+            return inputString;
+        }
+        set
+        {
+            inputString = value;
+        }
     }
 } 

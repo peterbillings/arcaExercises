@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\HomeBuilder\obj\Debug\netcoreapp2.2\HomeBuilder.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\HomeBuilder\obj\Debug\netcoreapp2.2\HomeBuilder.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\HomeBuilder\obj\Debug\netcoreapp2.2\HomeBuilder.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\HomeBuilder\obj\Debug\netcoreapp2.2\HomeBuilder.AssemblyInfo.cs
+C:\Users\peter\Documents\code\HomeBuilder\bin\Debug\netcoreapp2.2\HomeBuilder.deps.json
+C:\Users\peter\Documents\code\HomeBuilder\bin\Debug\netcoreapp2.2\HomeBuilder.runtimeconfig.json
+C:\Users\peter\Documents\code\HomeBuilder\bin\Debug\netcoreapp2.2\HomeBuilder.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\HomeBuilder\bin\Debug\netcoreapp2.2\HomeBuilder.dll
+C:\Users\peter\Documents\code\HomeBuilder\bin\Debug\netcoreapp2.2\HomeBuilder.pdb
+C:\Users\peter\Documents\code\HomeBuilder\obj\Debug\netcoreapp2.2\HomeBuilder.dll
+C:\Users\peter\Documents\code\HomeBuilder\obj\Debug\netcoreapp2.2\HomeBuilder.pdb

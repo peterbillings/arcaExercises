@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\RefsDeux\bin\Debug\netcoreapp2.2\RefsDeux.deps.json
+C:\Users\peter\Documents\code\RefsDeux\bin\Debug\netcoreapp2.2\RefsDeux.runtimeconfig.json
+C:\Users\peter\Documents\code\RefsDeux\bin\Debug\netcoreapp2.2\RefsDeux.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\RefsDeux\bin\Debug\netcoreapp2.2\RefsDeux.dll
+C:\Users\peter\Documents\code\RefsDeux\bin\Debug\netcoreapp2.2\RefsDeux.pdb
+C:\Users\peter\Documents\code\RefsDeux\obj\Debug\netcoreapp2.2\RefsDeux.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\RefsDeux\obj\Debug\netcoreapp2.2\RefsDeux.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\RefsDeux\obj\Debug\netcoreapp2.2\RefsDeux.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\RefsDeux\obj\Debug\netcoreapp2.2\RefsDeux.AssemblyInfo.cs
+C:\Users\peter\Documents\code\RefsDeux\obj\Debug\netcoreapp2.2\RefsDeux.dll
+C:\Users\peter\Documents\code\RefsDeux\obj\Debug\netcoreapp2.2\RefsDeux.pdb

@@ -1,0 +1,14 @@
+C:\Users\peter\Documents\code\TicTacToeWebApp\webapi\tictactoeApi\bin\Debug\netcoreapp2.2\tictactoeApi.deps.json
+C:\Users\peter\Documents\code\TicTacToeWebApp\webapi\tictactoeApi\bin\Debug\netcoreapp2.2\tictactoeApi.runtimeconfig.json
+C:\Users\peter\Documents\code\TicTacToeWebApp\webapi\tictactoeApi\bin\Debug\netcoreapp2.2\tictactoeApi.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\TicTacToeWebApp\webapi\tictactoeApi\bin\Debug\netcoreapp2.2\tictactoeApi.dll
+C:\Users\peter\Documents\code\TicTacToeWebApp\webapi\tictactoeApi\bin\Debug\netcoreapp2.2\tictactoeApi.pdb
+C:\Users\peter\Documents\code\TicTacToeWebApp\webapi\tictactoeApi\obj\Debug\netcoreapp2.2\tictactoeApi.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\TicTacToeWebApp\webapi\tictactoeApi\obj\Debug\netcoreapp2.2\tictactoeApi.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\TicTacToeWebApp\webapi\tictactoeApi\obj\Debug\netcoreapp2.2\tictactoeApi.RazorAssemblyInfo.cache
+C:\Users\peter\Documents\code\TicTacToeWebApp\webapi\tictactoeApi\obj\Debug\netcoreapp2.2\tictactoeApi.RazorAssemblyInfo.cs
+C:\Users\peter\Documents\code\TicTacToeWebApp\webapi\tictactoeApi\obj\Debug\netcoreapp2.2\tictactoeApi.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\TicTacToeWebApp\webapi\tictactoeApi\obj\Debug\netcoreapp2.2\tictactoeApi.AssemblyInfo.cs
+C:\Users\peter\Documents\code\TicTacToeWebApp\webapi\tictactoeApi\obj\Debug\netcoreapp2.2\tictactoeApi.RazorTargetAssemblyInfo.cache
+C:\Users\peter\Documents\code\TicTacToeWebApp\webapi\tictactoeApi\obj\Debug\netcoreapp2.2\tictactoeApi.dll
+C:\Users\peter\Documents\code\TicTacToeWebApp\webapi\tictactoeApi\obj\Debug\netcoreapp2.2\tictactoeApi.pdb

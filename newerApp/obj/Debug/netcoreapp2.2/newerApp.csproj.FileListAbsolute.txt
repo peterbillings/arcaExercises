@@ -1,0 +1,11 @@
+C:\Users\peter\Documents\code\newerApp\obj\Debug\netcoreapp2.2\newerApp.csprojAssemblyReference.cache
+C:\Users\peter\Documents\code\newerApp\obj\Debug\netcoreapp2.2\newerApp.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\code\newerApp\obj\Debug\netcoreapp2.2\newerApp.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\code\newerApp\obj\Debug\netcoreapp2.2\newerApp.AssemblyInfo.cs
+C:\Users\peter\Documents\code\newerApp\bin\Debug\netcoreapp2.2\newerApp.deps.json
+C:\Users\peter\Documents\code\newerApp\bin\Debug\netcoreapp2.2\newerApp.runtimeconfig.json
+C:\Users\peter\Documents\code\newerApp\bin\Debug\netcoreapp2.2\newerApp.runtimeconfig.dev.json
+C:\Users\peter\Documents\code\newerApp\bin\Debug\netcoreapp2.2\newerApp.dll
+C:\Users\peter\Documents\code\newerApp\bin\Debug\netcoreapp2.2\newerApp.pdb
+C:\Users\peter\Documents\code\newerApp\obj\Debug\netcoreapp2.2\newerApp.dll
+C:\Users\peter\Documents\code\newerApp\obj\Debug\netcoreapp2.2\newerApp.pdb
